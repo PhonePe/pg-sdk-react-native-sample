@@ -1,5 +1,5 @@
 # pg-sdk-react-native-sample
-Sample App to demonstrate integration of PhonePe PG SDK React Native package.
+Sample App to demonstrate the integration of PhonePe PG SDK React Native package. Refer this sample app for implementing PhonePe React-Native SDK functionalities.
 
 ```
 
