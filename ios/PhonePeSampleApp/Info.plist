@@ -51,5 +51,28 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>phonePe.reactNativeSampleApp</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>reactDemoAppScheme</string>
+			</array>
+		</dict>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>ppemerchantsdkv1</string>
+		<string>ppeUniversal</string>
+		<string>ppemerchantsdkv2</string>
+		<string>ppemerchantsdkv3</string>
+		<string>gpay</string>
+		<string>paytmmp</string>
+		<string>ppesim</string>
+	</array>
 </dict>
 </plist>
