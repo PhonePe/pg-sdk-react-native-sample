@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Text, View, SafeAreaView, ScrollView, Platform } from "react-native";
 import DropDownPicker from 'react-native-dropdown-picker';
-import PhonePePaymentSDK from 'phonepe-payment-sdk';
+import PhonePePaymentSDK from 'react-native-phonepe-pg';
 import { style } from "./stylesheets/Style";
 import PPButton from "./Container/PPButton";
 import PPTextField from "./Container/PPTextField";

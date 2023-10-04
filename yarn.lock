@@ -5598,11 +5598,6 @@ path-type@^4.0.0:
   resolved "https://registry.npmjs.org/path-type/-/path-type-4.0.0.tgz"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
-phonepe-payment-sdk@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/phonepe-payment-sdk/-/phonepe-payment-sdk-1.0.1.tgz"
-  integrity sha512-wzCRKFwyERIl+10+eJ218AXKVlyOXC0RcogMFbNsOEyDB0LRVmv4ClT2sieFWVL9aH0L4dVPhyml2UNw/kgaPA==
-
 picocolors@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/picocolors/-/picocolors-1.0.0.tgz"
@@ -5766,6 +5761,11 @@ react-native-dropdown-picker@^5.4.6:
   version "5.4.6"
   resolved "https://registry.npmjs.org/react-native-dropdown-picker/-/react-native-dropdown-picker-5.4.6.tgz"
   integrity sha512-T1XBHbE++M6aRU3wFYw3MvcOuabhWZ29RK/Ivdls2r1ZkZ62iEBZknLUPeVLMX3x6iUxj4Zgr3X2DGlEGXeHsA==
+
+"react-native-phonepe-pg@https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/react-native-phonepe-pg.tgz":
+  version "1.0.0"
+  resolved "https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/react-native-phonepe-pg.tgz"
+  integrity sha512-dhOD0xu2nJP2Jx2j8jeGB52m6/A6kYBUYjF0wczo3w239odsKbPP6zRJnJ7hqOivEYCNwpf70o0jUU+raTAyUg==
 
 react-native@*, react-native@0.72.4:
   version "0.72.4"
