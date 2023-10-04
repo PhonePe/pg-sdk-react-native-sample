@@ -13,7 +13,8 @@ npm i react-native-dropdown-picker
 
 To load PhonePe PG package with node_modules
 ```
-npm i phonpe-payment-sdk
+npm i https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/react-native-phonepe-pg.tgz
+
 ```
 
 For installing iOS Native Depencies
