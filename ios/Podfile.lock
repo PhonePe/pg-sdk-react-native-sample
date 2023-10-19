@@ -75,7 +75,7 @@ PODS:
   - hermes-engine/Pre-built (0.72.4)
   - libevent (2.1.12)
   - OpenSSL-Universal (1.1.1100)
-  - PhonePePayment (2.5.1)
+  - PhonePePayment (2.6.0)
   - RCT-Folly (2021.07.22.00):
     - boost
     - DoubleConversion
@@ -376,8 +376,8 @@ PODS:
   - React-jsinspector (0.72.4)
   - React-logger (0.72.4):
     - glog
-  - react-native-phonepe-pg (1.0.0):
-    - PhonePePayment (= 2.5.1)
+  - react-native-phonepe-pg (1.0.1):
+    - PhonePePayment (= 2.6.0)
     - RCT-Folly (= 2021.07.22.00)
     - React-Core
   - React-NativeModulesApple (0.72.4):
@@ -681,7 +681,7 @@ SPEC CHECKSUMS:
   hermes-engine: 81191603c4eaa01f5e4ae5737a9efcf64756c7b2
   libevent: 4049cae6c81cdb3654a443be001fb9bdceff7913
   OpenSSL-Universal: ebc357f1e6bc71fa463ccb2fe676756aff50e88c
-  PhonePePayment: 1536bca29224b8adac4c4d35d59ba309c4ffa4aa
+  PhonePePayment: a23a9cec49aa34eaa7f83c89f7381ea76e1de477
   RCT-Folly: 424b8c9a7a0b9ab2886ffe9c3b041ef628fd4fb1
   RCTRequired: c0569ecc035894e4a68baecb30fe6a7ea6e399f9
   RCTTypeSafety: e90354072c21236e0bcf1699011e39acd25fea2f
@@ -697,7 +697,7 @@ SPEC CHECKSUMS:
   React-jsiexecutor: c7f826e40fa9cab5d37cab6130b1af237332b594
   React-jsinspector: aaed4cf551c4a1c98092436518c2d267b13a673f
   React-logger: da1ebe05ae06eb6db4b162202faeafac4b435e77
-  react-native-phonepe-pg: a54ff0a0134d065e06358c199c3b2fef2a559210
+  react-native-phonepe-pg: d4487675a4e07e79002e3150705d9cfd264fb3a7
   React-NativeModulesApple: edb5ace14f73f4969df6e7b1f3e41bef0012740f
   React-perflogger: 496a1a3dc6737f964107cb3ddae7f9e265ddda58
   React-RCTActionSheet: 02904b932b50e680f4e26e7a686b33ebf7ef3c00
