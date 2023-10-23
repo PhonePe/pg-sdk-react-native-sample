@@ -20,7 +20,6 @@ npm i react-native-dropdown-picker
 To load the PhonePe PG package with node_modules
 ```
 npm i https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/react-native-phonepe-pg.tgz
-
 ```
 
 For installing iOS Native dependencies
@@ -30,13 +29,16 @@ pod install
 ```
 
 
-Run iOS:
+To run on iOS:
 ```
 npm run ios
 ```
+or
+```
+npx react-native run-ios
+```
 
-
-Run Android:
+To run on Android:
 ```
 npm run android
 ```
