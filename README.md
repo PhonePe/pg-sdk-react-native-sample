@@ -1,11 +1,11 @@
 # pg-sdk-react-native-sample
-Sample App to demonstrate integration of PhonePe PG SDK React Native package.
+Sample App to demonstrate the integration of PhonePe PG SDK React Native package.
 
 > [!NOTE]
-> To run the sample app, you need to add your encrypted keys. Please contact with the PhonePe integration team to generate your credentials for testing the payment flow.
+> To run the sample app, you must add your encrypted keys. Please get in touch with the **PhonePe integration team** (merchant-integration@phonepe.com) to generate your credentials for testing the payment flow.
 
 > [!WARNING]  
-> Without Valid Credentials this sample app wouldn't work.
+> Without valid credentials this sample app wouldn't work.
 
 ```
 
@@ -17,13 +17,13 @@ npm i
 npm i react-native-dropdown-picker
 ```
 
-To load PhonePe PG package with node_modules
+To load the PhonePe PG package with node_modules
 ```
 npm i https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/react-native-phonepe-pg.tgz
 
 ```
 
-For installing iOS Native Depencies
+For installing iOS Native dependencies
 ```
 cd ios
 pod install
