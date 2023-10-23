@@ -1,6 +1,12 @@
 # pg-sdk-react-native-sample
 Sample App to demonstrate integration of PhonePe PG SDK React Native package.
 
+> [!NOTE]
+> To run the sample app, you need to add your encrypted keys. Please contact with the PhonePe integration team to generate your credentials for testing the payment flow.
+
+> [!WARNING]  
+> Without Valid Credentials this sample app wouldn't work.
+
 ```
 
 open project
