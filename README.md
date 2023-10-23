@@ -2,7 +2,7 @@
 Sample App to demonstrate the integration of PhonePe PG SDK React Native package.
 
 > [!NOTE]
-> To run the sample app, you must add your encrypted keys. Please get in touch with the **PhonePe integration team** (merchant-integration@phonepe.com) to generate your credentials for testing the payment flow.
+> To run the sample app, you must add your encrypted keys. Please get in touch with the ```PhonePe integration team``` (merchant-integration@phonepe.com) to generate your credentials for testing the payment flow.
 
 > [!WARNING]  
 > Without valid credentials this sample app wouldn't work.
