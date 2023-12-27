@@ -13,7 +13,7 @@
     "react": "18.2.0",
     "react-native": "0.72.4",
     "react-native-dropdown-picker": "^5.4.6",
-    "react-native-phonepe-pg": "https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/react-native-phonepe-pg.tgz"
+    "react-native-phonepe-pg": "https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/releases/v2/react-native-phonepe-pg.tgz"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

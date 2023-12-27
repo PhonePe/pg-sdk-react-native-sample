@@ -5762,10 +5762,10 @@ react-native-dropdown-picker@^5.4.6:
   resolved "https://registry.npmjs.org/react-native-dropdown-picker/-/react-native-dropdown-picker-5.4.6.tgz"
   integrity sha512-T1XBHbE++M6aRU3wFYw3MvcOuabhWZ29RK/Ivdls2r1ZkZ62iEBZknLUPeVLMX3x6iUxj4Zgr3X2DGlEGXeHsA==
 
-"react-native-phonepe-pg@https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/react-native-phonepe-pg.tgz":
-  version "1.0.1"
-  resolved "https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/react-native-phonepe-pg.tgz"
-  integrity sha512-ectWvwkoGXTgT7x/zswxI11hJQzeCD7KC1iUp+SzLIhY05ZeOl8/pFTDi0gM7bdG3bWqiqpPO7hUaEyun1KcDQ==
+"react-native-phonepe-pg@https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/releases/v2/react-native-phonepe-pg.tgz":
+  version "2.0.0"
+  resolved "https://phonepe.mycloudrepo.io/public/repositories/phonepe-mobile-react-native-sdk/releases/v2/react-native-phonepe-pg.tgz"
+  integrity sha512-aUHe7TvYnwK47MEdwPT+y/qJbWn/EjfoETaJN7dxGCdTtrGrsX3F3IAQReDiv3glO2SUlyWxHB2MfNXYzkjXnw==
 
 react-native@*, react-native@0.72.4:
   version "0.72.4"
