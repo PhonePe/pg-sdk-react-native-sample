@@ -43,5 +43,5 @@ To run on Android:
 npm run android
 ```
 
-For more details, Please visit the Dev Docs : [PhonePe Developer Docs](https://github.com/PhonePe/pg-sdk-react-native-sample/).
+For more details, Please visit the Dev Docs : [PhonePe Developer Docs](https://developer.phonepe.com/v1/docs/react-native-sdk-integration-standard).
 
