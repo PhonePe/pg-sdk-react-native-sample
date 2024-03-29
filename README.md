@@ -1,4 +1,4 @@
-# pg-sdk-react-native-sample app
+# Sample app
 Sample App to demonstrate the integration of PhonePe PG SDK React Native package.
 
 To know about the integration steps, please visit the Dev Docs : [PhonePe Developer Docs](https://developer.phonepe.com/v1/docs/react-native-sdk-integration-standard).
