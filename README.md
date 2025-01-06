@@ -11,8 +11,8 @@ To know about the integration steps, please visit the Dev Docs : [PhonePe Develo
 
 Pull dependencies from NPM:
 ```
-npm i react-native-phonepe-pg -f
 npm i -f
+npm i react-native-phonepe-pg -f
 ```
 
 To run on iOS:
